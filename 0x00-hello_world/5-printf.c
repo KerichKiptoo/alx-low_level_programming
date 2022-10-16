@@ -1,10 +1,5 @@
-/*
- * File: 5-printf.c
- *Author: KerichKiptoo
- */
-
 #include <stdio.h>
-/*
+/**
  *main - function to print the required output
  *Return: Always 0.
  */
