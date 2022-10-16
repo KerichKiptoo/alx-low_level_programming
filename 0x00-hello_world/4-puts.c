@@ -3,14 +3,10 @@
 
 
 /**
+ * main - Prints a text
+ * Return: Always 0 (Success)
  *
- *   * main - Prints a text
- *
- *     *
- *
- *       * Return: Always 0 (Success)
- *
- *         */
+*/
 
 int main(void)
 
