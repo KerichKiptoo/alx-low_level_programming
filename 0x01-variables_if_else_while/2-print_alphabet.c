@@ -3,17 +3,21 @@
 #include <time.h>
 
 /**
- *main - Entry point
+ *main - prints alphabet lowercase
  *
  * Return: Always 0.
  */
 int main(void)
 {
-	char low;
+	char i;
 
-	for (low = 'a'; low <= 'z'; low++)
-		putchar(low);
-		putchar('\n');
+	for (i = 'a'; i <= 'z'; i++)
+
+	{
+		putchar(i);
+	
+	}
+	putchar('\n');
 
 	return (0);
 
