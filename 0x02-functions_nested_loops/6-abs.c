@@ -2,7 +2,7 @@
 
 /**
  * _abs - computes the absolute value of an integer
- *@int: interger to be checked
+ *@i: interger to be checked
  * Return: 0.
  */
 
@@ -11,11 +11,10 @@ int _abs(int i)
 
 	if (i < 0)
 	{
-		i = i(-1);
-		_putchar(i);
+		return (i * -1);
 	}
 	else
-		_putchar(i);
+		return (i);
 
 	return (0);
 }
