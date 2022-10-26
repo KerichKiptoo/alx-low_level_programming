@@ -13,8 +13,8 @@ void rev_string(char *s)
 	{
 	}
 	for (a = len - 1; a >= 0; a--)
-	{
-		return (a);
-	}
+	 {
+		 s = a;
+	 }
 }
 
