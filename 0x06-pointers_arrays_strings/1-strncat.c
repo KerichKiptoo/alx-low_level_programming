@@ -1,4 +1,6 @@
 #include "main.h"
+#include <string.h>
+i
 /**
  * _strncat - concatenates two strings
  * @dest: The string to be appended upon.
