@@ -7,7 +7,6 @@
  */
 void print_array(int *a, int n)
 {
-	*a[];
 	int i;
 
 	for (i = 0; i < n; i++)
