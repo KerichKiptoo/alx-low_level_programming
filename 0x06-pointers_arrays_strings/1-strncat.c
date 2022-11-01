@@ -10,14 +10,8 @@ i
  */
 char *_strncat(char *dest, char *src, int n)
 {
-	int src_len, dest_len i;
-
-	for (src_len = 0; src[src_len] != '\0'; src_len++)
-	{
-	}
-	for (dest_len = 0; dest[dest_len] != '\0'; dest_len++)
-	{
-	}
+	int src_len = strlen(src);
+	int dest_len = strlen(dest);
 
 	for (i = 0; i < n && i <= src_len; i++)
 	{
